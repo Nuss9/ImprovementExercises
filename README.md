@@ -7,4 +7,4 @@ Create a solution, and if necessary additional tests, which will make the alread
 
 Exercises of different levels have been added, where 1 is the highest difficulty, and 8 the lowest.
 
-Happy coding!
+Happy coding! :computer:
