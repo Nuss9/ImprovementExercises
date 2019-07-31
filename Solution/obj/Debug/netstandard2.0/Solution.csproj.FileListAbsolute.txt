@@ -1,0 +1,9 @@
+C:\Users\dennis\Projects\ImprovementsDay\Solution\bin\Debug\netstandard2.0\Solution.deps.json
+C:\Users\dennis\Projects\ImprovementsDay\Solution\bin\Debug\netstandard2.0\Solution.dll
+C:\Users\dennis\Projects\ImprovementsDay\Solution\bin\Debug\netstandard2.0\Solution.pdb
+C:\Users\dennis\Projects\ImprovementsDay\Solution\obj\Debug\netstandard2.0\Solution.csprojAssemblyReference.cache
+C:\Users\dennis\Projects\ImprovementsDay\Solution\obj\Debug\netstandard2.0\Solution.csproj.CoreCompileInputs.cache
+C:\Users\dennis\Projects\ImprovementsDay\Solution\obj\Debug\netstandard2.0\Solution.AssemblyInfoInputs.cache
+C:\Users\dennis\Projects\ImprovementsDay\Solution\obj\Debug\netstandard2.0\Solution.AssemblyInfo.cs
+C:\Users\dennis\Projects\ImprovementsDay\Solution\obj\Debug\netstandard2.0\Solution.dll
+C:\Users\dennis\Projects\ImprovementsDay\Solution\obj\Debug\netstandard2.0\Solution.pdb

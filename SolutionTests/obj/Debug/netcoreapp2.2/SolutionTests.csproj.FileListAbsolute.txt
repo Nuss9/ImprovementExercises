@@ -1,0 +1,17 @@
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\obj\Debug\netcoreapp2.2\SolutionTests.csprojAssemblyReference.cache
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\obj\Debug\netcoreapp2.2\SolutionTests.csproj.CoreCompileInputs.cache
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\obj\Debug\netcoreapp2.2\SolutionTests.AssemblyInfoInputs.cache
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\obj\Debug\netcoreapp2.2\SolutionTests.AssemblyInfo.cs
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\bin\Debug\netcoreapp2.2\SolutionTests.deps.json
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\bin\Debug\netcoreapp2.2\SolutionTests.runtimeconfig.json
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\bin\Debug\netcoreapp2.2\SolutionTests.runtimeconfig.dev.json
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\bin\Debug\netcoreapp2.2\SolutionTests.dll
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\bin\Debug\netcoreapp2.2\SolutionTests.pdb
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\bin\Debug\netcoreapp2.2\Solution.dll
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\bin\Debug\netcoreapp2.2\Solution.pdb
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\obj\Debug\netcoreapp2.2\SolutionTests.csproj.CopyComplete
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\obj\Debug\netcoreapp2.2\SolutionTests.dll
+C:\Users\dennis\Projects\ImprovementsDay\SolutionTests\obj\Debug\netcoreapp2.2\SolutionTests.pdb
