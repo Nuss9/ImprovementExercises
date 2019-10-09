@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace SolutionTests
 {
-    class MexicanWaveTests
+    public class MexicanWaveTests
     {
         [Fact]
         public void BasicTest1()
