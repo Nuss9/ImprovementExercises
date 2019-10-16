@@ -7,3 +7,11 @@ C:\Users\dennis\Projects\ImprovementsDay\Solution\obj\Debug\netstandard2.0\Solut
 C:\Users\dennis\Projects\ImprovementsDay\Solution\obj\Debug\netstandard2.0\Solution.AssemblyInfo.cs
 C:\Users\dennis\Projects\ImprovementsDay\Solution\obj\Debug\netstandard2.0\Solution.dll
 C:\Users\dennis\Projects\ImprovementsDay\Solution\obj\Debug\netstandard2.0\Solution.pdb
+c:\Users\dennis\Projects\ImprovementExercises\Solution\bin\Debug\netstandard2.0\Solution.deps.json
+c:\Users\dennis\Projects\ImprovementExercises\Solution\bin\Debug\netstandard2.0\Solution.dll
+c:\Users\dennis\Projects\ImprovementExercises\Solution\bin\Debug\netstandard2.0\Solution.pdb
+c:\Users\dennis\Projects\ImprovementExercises\Solution\obj\Debug\netstandard2.0\Solution.csprojAssemblyReference.cache
+c:\Users\dennis\Projects\ImprovementExercises\Solution\obj\Debug\netstandard2.0\Solution.AssemblyInfoInputs.cache
+c:\Users\dennis\Projects\ImprovementExercises\Solution\obj\Debug\netstandard2.0\Solution.AssemblyInfo.cs
+c:\Users\dennis\Projects\ImprovementExercises\Solution\obj\Debug\netstandard2.0\Solution.dll
+c:\Users\dennis\Projects\ImprovementExercises\Solution\obj\Debug\netstandard2.0\Solution.pdb
