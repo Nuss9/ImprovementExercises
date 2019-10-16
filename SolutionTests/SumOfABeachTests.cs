@@ -12,6 +12,26 @@ namespace SolutionTests
 		}
 
 		[Fact]
+		public void WhenGivenNoInput_ItShouldReturnZero()
+		{
+			Assert.Equal(0, subject.SumOfABeachCounter(""));
+			Assert.Equal(0, subject.SumOfABeachCounter(null));
+		}
+
+		[InlineData("sun")]
+		[InlineData("sand")]
+		[InlineData("fish")]
+		[InlineData("water")]
+		[Theory]
+		public void WhenGivenASummerWord_ItShouldReturnOne(string input)
+		{
+			 int expected = 1;
+
+			 Assert.Equal(expected, subject.SumOfABeachCounter(input));
+		}
+
+		/*
+		[Fact]
 		public void FinalTest1()
 		{
      		Assert.Equal(1, subject.SumOfABeachCounter("123FISH321"));
@@ -34,5 +54,6 @@ namespace SolutionTests
 		{
       		Assert.Equal(1, subject.SumOfABeachCounter("sunshine"));
 		}
+		*/
 	}
 }
