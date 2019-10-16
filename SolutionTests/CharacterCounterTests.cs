@@ -3,27 +3,31 @@ using Solution;
 using System.Collections.Generic;
 using Xunit;
 
-public class CharacterCounterTests 
+namespace SolutionTests
 {
-	public CharacterCounter subject { get; set; }
-
-	public CharacterCounterTests()
+	public class CharacterCounterTests
 	{
-		this.subject = new CharacterCounter();
-	}
-	[Fact]
-    public void FinalTest1() {
-		Dictionary<char, int> d = new Dictionary<char, int>();
-    	d.Add('a', 4);
-    	Assert.Equal(d, subject.Count("aaaa"));
-    }
+		public CharacterCounter subject { get; set; }
 
-	[Fact]
-	public void FinalTest2()
-	{
-		Dictionary<char, int> d = new Dictionary<char, int>();
-		d.Add('a', 2);
-    	d.Add('b', 2);
-    	Assert.Equal(d, subject.Count("aabb"));
+		public CharacterCounterTests()
+		{
+			this.subject = new CharacterCounter();
+		}
+		[Fact]
+		public void FinalTest1()
+		{
+			Dictionary<char, int> d = new Dictionary<char, int>();
+			d.Add('a', 4);
+			Assert.Equal(d, subject.Count("aaaa"));
+		}
+
+		[Fact]
+		public void FinalTest2()
+		{
+			Dictionary<char, int> d = new Dictionary<char, int>();
+			d.Add('a', 2);
+			d.Add('b', 2);
+			Assert.Equal(d, subject.Count("aabb"));
+		}
 	}
-}  
+}
