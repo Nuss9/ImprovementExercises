@@ -32,6 +32,15 @@ namespace SolutionTests
 			 Assert.Equal(expected, Subject.SumOfABeachCounter(input));
 		}
 
+		[Fact]
+		public void WhenInputContainsASummerWordWithNonsense_ItShouldReturnOne()
+		{
+			var input = "vbnrfjkeaSun";
+			var expected = 1;
+
+			Assert.Equal(expected, Subject.SumOfABeachCounter(input));
+		}
+
 		/*
 		[Fact]
 		public void FinalTest1()

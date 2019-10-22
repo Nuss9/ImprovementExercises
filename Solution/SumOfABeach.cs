@@ -20,8 +20,12 @@ namespace Solution
 			var loweredInput = input.ToLower();
 			var counter = 0;
 
-			if(summerWords.Contains(loweredInput)) {
-				counter++;
+			foreach (var word in summerWords)
+			{
+				if (loweredInput.Contains(word))
+				{
+					counter++;
+				}
 			}
 
 			return counter;
