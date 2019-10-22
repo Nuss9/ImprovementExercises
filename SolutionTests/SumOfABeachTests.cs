@@ -5,17 +5,19 @@ namespace SolutionTests
 {
 	public class SumOfABeachTests
 	{
-		public SumOfABeach subject { get; set; }
+		public SumOfABeach Subject { get; set; }
 		public SumOfABeachTests()
 		{
-			this.subject = new SumOfABeach();
+			Subject = new SumOfABeach();
 		}
 
 		[Fact]
 		public void WhenGivenNoInput_ItShouldReturnZero()
 		{
-			Assert.Equal(0, subject.SumOfABeachCounter(""));
-			Assert.Equal(0, subject.SumOfABeachCounter(null));
+			var expected = 0;
+
+			Assert.Equal(expected, Subject.SumOfABeachCounter(""));
+			Assert.Equal(expected, Subject.SumOfABeachCounter(null));
 		}
 
 		[InlineData("sun")]
@@ -25,9 +27,9 @@ namespace SolutionTests
 		[Theory]
 		public void WhenGivenASummerWord_ItShouldReturnOne(string input)
 		{
-			 int expected = 1;
+			 var expected = 1;
 
-			 Assert.Equal(expected, subject.SumOfABeachCounter(input));
+			 Assert.Equal(expected, Subject.SumOfABeachCounter(input));
 		}
 
 		/*
