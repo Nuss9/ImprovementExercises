@@ -41,6 +41,15 @@ namespace SolutionTests
 			Assert.Equal(expected, Subject.SumOfABeachCounter(input));
 		}
 
+		[Fact]
+		public void WhenInputContainsADoubleSummerWordWithNonsense_ItShouldReturnTwo()
+		{
+			var input = "vbSunnrfjkeaSun";
+			var expected = 2;
+
+			Assert.Equal(expected, Subject.SumOfABeachCounter(input));
+		}
+
 		/*
 		[Fact]
 		public void FinalTest1()

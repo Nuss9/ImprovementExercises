@@ -22,8 +22,9 @@ namespace Solution
 
 			foreach (var word in summerWords)
 			{
-				if (loweredInput.Contains(word))
+				while (loweredInput.Contains(word))
 				{
+					loweredInput = loweredInput.Remove(loweredInput.IndexOf(word), word.Length);
 					counter++;
 				}
 			}
