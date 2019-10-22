@@ -50,30 +50,28 @@ namespace SolutionTests
 			Assert.Equal(expected, Subject.SumOfABeachCounter(input));
 		}
 
-		/*
 		[Fact]
 		public void FinalTest1()
 		{
-     		Assert.Equal(1, subject.SumOfABeachCounter("123FISH321"));
+     		Assert.Equal(1, Subject.SumOfABeachCounter("123FISH321"));
 		}
 
 		[Fact]
 		public void FinalTest2()
 		{
-     		 Assert.Equal(1, subject.SumOfABeachCounter("SanD"));
+     		 Assert.Equal(1, Subject.SumOfABeachCounter("SanD"));
 		}
 
 		[Fact]
 		public void FinalTest3()
 		{
-      		Assert.Equal(4, subject.SumOfABeachCounter("sunsunsunsun"));
+      		Assert.Equal(4, Subject.SumOfABeachCounter("sunsunsunsun"));
 		}
 
 		[Fact]
 		public void FinalTest4()
 		{
-      		Assert.Equal(1, subject.SumOfABeachCounter("sunshine"));
+      		Assert.Equal(1, Subject.SumOfABeachCounter("sunshine"));
 		}
-		*/
 	}
 }
